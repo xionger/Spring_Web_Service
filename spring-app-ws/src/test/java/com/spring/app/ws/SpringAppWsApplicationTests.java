@@ -1,4 +1,4 @@
-package com.springboot.ws;
+package com.spring.app.ws;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
